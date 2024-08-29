@@ -3,4 +3,4 @@
 - Console screen will be as shown below:
 
 
-![Alt text](C:\Users\sinan\Pictures\Screenshots\Screenshot 2024-08-29 115515.png)
+![Alt text](https://github.com/SinanSenkul/Linq/blob/master/Screenshot%202024-08-29%20115515.png)
