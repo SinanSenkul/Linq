@@ -4,4 +4,4 @@
 
 
 
-![alt text](https://github.com/[sinansenkul]/[Linq]/blob/[branch]/image.jpg?raw=true)
+![alt text]([https://github.com/[sinansenkul]/[Linq]/blob/[branch]/image.jpg?raw=true](https://github.com/SinanSenkul/Linq/blob/master/Screenshot%202024-08-29%20115515.png))
